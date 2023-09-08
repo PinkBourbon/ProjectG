@@ -1,0 +1,80 @@
+<mxfile host="app.diagrams.net" modified="2023-09-08T05:47:45.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Whale/3.22.205.14 Safari/537.36" etag="dxCXPyA9SCMN6vVLyWst" version="21.4.0" type="device">
+  <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
+    <mxGraphModel dx="2028" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="프로그래밍 조직도" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="70" width="1130" height="510" as="geometry" />
+        </mxCell>
+        <UserObject label="정용훈&lt;br&gt;&lt;font color=&quot;#378752&quot;&gt;&lt;i style=&quot;&quot;&gt;프로그래밍 팀장&lt;/i&gt;&lt;br&gt;&lt;i style=&quot;&quot;&gt;서버 팀장&lt;/i&gt;&lt;/font&gt;&lt;br&gt;&lt;font color=&quot;#696969&quot;&gt;메인 기획 / 네트워크 / 게임엔진&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="380" y="80" width="237" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="강석원&lt;br&gt;&lt;font style=&quot;font-style: italic;&quot; color=&quot;#378752&quot;&gt;엔진 팀장&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot; color=&quot;#696969&quot;&gt;게임 엔진 설계&lt;br&gt;엔진 최적화&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="50" y="230" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="김민정&lt;br&gt;&lt;font color=&quot;#497ec4&quot; style=&quot;font-style: italic;&quot;&gt;그래픽스 팀장&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot; color=&quot;#696969&quot;&gt;그래픽스 엔진 설계&lt;br&gt;리소스 관리&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="370" y="230" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="고형종&lt;br&gt;&lt;font color=&quot;#ff66ff&quot; style=&quot;font-style: italic;&quot;&gt;툴 팀장&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot; color=&quot;#696969&quot;&gt;에디터&lt;br&gt;파티클 툴 / 터레인 툴&lt;br&gt;모딩&lt;/font&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
+            <mxGeometry x="640" y="230" width="182" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZVt5tsY7in2nTStpuEOq-4" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="ZVt5tsY7in2nTStpuEOq-5" source="dNxyNK7c78bLwvsdeMH5-14" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="오수안&lt;br&gt;&lt;font style=&quot;font-style: italic;&quot; color=&quot;#378752&quot;&gt;엔진 서브&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot; color=&quot;#696969&quot;&gt;컴포넌트 시스템 구조 설계&lt;/font&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="ZVt5tsY7in2nTStpuEOq-5">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="50" y="360" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZVt5tsY7in2nTStpuEOq-6" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="ZVt5tsY7in2nTStpuEOq-7" source="dNxyNK7c78bLwvsdeMH5-16" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="정진수&lt;br&gt;&lt;font color=&quot;#497ec4&quot;&gt;&lt;i style=&quot;&quot;&gt;그래픽스 서브&lt;/i&gt;&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#696969&quot;&gt;셰이더 / PBR &lt;br&gt;레이트레이싱&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="ZVt5tsY7in2nTStpuEOq-7">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="474" y="360" width="186" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZVt5tsY7in2nTStpuEOq-10" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" target="ZVt5tsY7in2nTStpuEOq-11" source="dNxyNK7c78bLwvsdeMH5-16" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="신윤제&lt;br&gt;&lt;font color=&quot;#497ec4&quot; style=&quot;font-style: italic;&quot;&gt;그래픽스 서브&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;&quot; color=&quot;#696969&quot;&gt;파티클, 이펙트&lt;/font&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="ZVt5tsY7in2nTStpuEOq-11">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="270" y="360" width="170" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ZVt5tsY7in2nTStpuEOq-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="dNxyNK7c78bLwvsdeMH5-12" target="ZVt5tsY7in2nTStpuEOq-13" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="안준용&lt;br&gt;&lt;font color=&quot;#cccc00&quot;&gt;&lt;font style=&quot;font-style: italic;&quot;&gt;물리 팀장&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#808080&quot;&gt;PhysicsX / 물리&lt;/font&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="ZVt5tsY7in2nTStpuEOq-13">
+          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+            <mxGeometry x="900" y="230" width="180" height="90" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
